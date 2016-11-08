@@ -1,4 +1,4 @@
-# Tiers Lieux Publics
+# Tiers Lieux dans la sphère Etat et entités publiques
 Elements de réflexion sur les environnements Informels de Créativité et d'Open Innovation Publics (fablabs, colabs, living labs, design studios, créalabs)
 
 ## 3 dimensions clés
